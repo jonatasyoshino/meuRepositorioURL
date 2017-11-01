@@ -1,0 +1,2 @@
+# meuRepositorioURL
+minhaMasterRemota
